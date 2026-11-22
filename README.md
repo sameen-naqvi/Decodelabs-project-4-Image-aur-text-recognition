@@ -1,1 +1,1 @@
-# Decodelabs-project-4-Image-aur-text-recognition
+An Image and Text Recognition project developed using Python to detect, analyze, and extract text from images. This project uses image processing and Optical Character Recognition (OCR) techniques to convert text from images into machine-readable format. It demonstrates the practical application of Artificial Intelligence, Computer Vision, and text extraction technologies.
